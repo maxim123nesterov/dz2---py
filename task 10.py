@@ -37,4 +37,4 @@ if res1 > res2:
     print('перевернуть ',res2, 'решек')
 else:
     print('перевернуть ',res1, 'орлов')
-#print(x)
+
